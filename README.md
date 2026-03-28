@@ -91,8 +91,8 @@ plt.show()
 ```
 
 ## Output:
+<img width="817" height="341" alt="image" src="https://github.com/user-attachments/assets/f3c53ecc-49dd-4024-9720-51247010a822" />
 
-ACTUAL VS PREDICTED PRICES USING SGD REGRESSOR
 <img width="565" height="453" alt="image" src="https://github.com/user-attachments/assets/f666e4fb-634b-4e2f-b2dd-0a2de06c8e1c" />
 
 ## Result:
